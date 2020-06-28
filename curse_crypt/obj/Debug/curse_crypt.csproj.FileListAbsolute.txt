@@ -1,0 +1,6 @@
+c:\users\пользователь\documents\visual studio 2015\Projects\curse_crypt\curse_crypt\bin\Debug\curse_crypt.exe.config
+c:\users\пользователь\documents\visual studio 2015\Projects\curse_crypt\curse_crypt\bin\Debug\curse_crypt.exe
+c:\users\пользователь\documents\visual studio 2015\Projects\curse_crypt\curse_crypt\bin\Debug\curse_crypt.pdb
+c:\users\пользователь\documents\visual studio 2015\Projects\curse_crypt\curse_crypt\obj\Debug\curse_crypt.csprojResolveAssemblyReference.cache
+c:\users\пользователь\documents\visual studio 2015\Projects\curse_crypt\curse_crypt\obj\Debug\curse_crypt.exe
+c:\users\пользователь\documents\visual studio 2015\Projects\curse_crypt\curse_crypt\obj\Debug\curse_crypt.pdb
